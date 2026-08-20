@@ -1,0 +1,25 @@
+Format Transceiver — Non-Commercial License
+=============================================
+
+This project's feature scope and conversion coverage were inspired by
+FlyingMouse Format (飞鼠格式) by LaoFeng (牢蜂):
+https://github.com/LaoFeng-mouse/flyingmouse-format
+
+All code in this repository is an independent, browser-only reimplementation
+(WebAssembly / client-side JavaScript) and does not reuse FlyingMouse
+Format's source code, which targets a Node.js/Electron desktop environment
+with bundled native binaries. In keeping with the spirit and terms of that
+project's own non-commercial license — which permits personal use,
+redistribution, and derivative work as long as attribution is kept and the
+result stays non-commercial — this project is released under the same
+restrictions:
+
+1. Personal, non-commercial use, copying, and modification of this project
+   are free and permitted.
+2. Commercial use is PROHIBITED: selling, reselling, charging for access,
+   embedding in a paid product, or any other commercial exploitation.
+3. Redistribution or forks must keep this notice and the attribution above
+   to FlyingMouse Format / LaoFeng (牢蜂).
+4. The software is provided "AS IS", without warranty of any kind.
+
+Copyright (c) 2026 the contributors to this repository.
